@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Mark Matskevich 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;Applied+Computer+Science+Student;Passionate+about+clean+code+and+system+design;Exploring+backend+architectures+and+algorithms" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 📖 About Me
@@ -37,14 +32,6 @@ Also familiar with:
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2342mark&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2342mark&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2342mark&layout=compact&theme=tokyonight"/>
