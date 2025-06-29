@@ -20,6 +20,9 @@ I work primarily with these technologies:
   <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST-00599C?style=for-the-badge&logo=rest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
 Also familiar with:
@@ -53,10 +56,10 @@ Right now, I’m focusing on:
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://t.me/mark_mackevich">
+  <a href="https://t.me/marchowg">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:2342mark@gmail.com">
+  <a href="mark.matskevich2411@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
