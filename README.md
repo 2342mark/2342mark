@@ -59,8 +59,11 @@ Right now, I’m focusing on:
   <a href="https://t.me/marchowg">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mark.matskevich2411@gmail.com">
+  <a href="mailto:mark.matskevich2411@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mrywog1sh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
