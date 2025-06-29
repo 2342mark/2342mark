@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Mark Matskevich 👋</h1>
----
 
 ## 📖 About Me
 
@@ -7,7 +6,7 @@ I’m a backend developer with a strong academic background in **Applied Compute
 I enjoy building reliable, maintainable, and scalable server-side applications, with a focus on clean architecture, data processing, and system design. My interests lie in backend technologies, algorithms, distributed systems, and software engineering best practices.  
 In my free time, I work on personal projects, explore modern frameworks, and improve my understanding of computer science fundamentals.
 
----
+
 
 ## 🛠️ Tech Stack
 
