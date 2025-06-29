@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 
-I’m a backend developer with a strong academic background in **Applied Computer Science**, currently studying at the **Faculty of Applied Mathematics and Computer Science, Belarusian State University**.  
+I’m a passionate backend developer with a strong academic background in **Applied Computer Science**, currently studying at the **Faculty of Applied Mathematics and Computer Science, Belarusian State University**.  
 I enjoy building reliable, maintainable, and scalable server-side applications, with a focus on clean architecture, data processing, and system design. My interests lie in backend technologies, algorithms, distributed systems, and software engineering best practices.  
 In my free time, I work on personal projects, explore modern frameworks, and improve my understanding of computer science fundamentals.
 
