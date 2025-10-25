@@ -1,72 +1,59 @@
 <h1 align="center">Hi, I'm Mark Matskevich 👋</h1>
+<h3 align="center">Data Engineer & Analyst | Turning Raw Data into Business Insights</h3>
 
-## 📖 About Me
+## 🚀 About Me
 
-I’m a passionate backend developer with a strong academic background in **Applied Computer Science**, currently studying at the **Faculty of Applied Mathematics and Computer Science, Belarusian State University**.  
-I enjoy building reliable, maintainable, and scalable server-side applications, with a focus on clean architecture, data processing, and system design. My interests lie in backend technologies, algorithms, distributed systems, and software engineering best practices.  
-In my free time, I work on personal projects, explore modern frameworks, and improve my understanding of computer science fundamentals.
+I transform complex data into actionable solutions. Passionate about building scalable data pipelines, optimizing ETL processes, and uncovering hidden patterns that drive business decisions. With strong foundation in computer science and mathematics, I bridge the gap between technical implementation and business value.
 
+**What I bring to the table:**
+- 🛠️ **Data Engineering**: Building robust ETL/ELT pipelines that handle millions of records
+- 📊 **Data Analysis**: From exploratory analysis to actionable insights and dashboards
+- 🗄️ **Database Expertise**: SQL optimization, data modeling, and performance tuning
+- ⚡ **Performance**: Writing efficient code that scales with your data needs
 
+## 💼 Tech Stack
 
-## 🛠️ Tech Stack
+### **Core Data Technologies**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-I work primarily with these technologies:
-
+### **Engineering & Performance**
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST-00599C?style=for-the-badge&logo=rest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </p>
 
-Also familiar with:
-- Software architecture principles
-- Multithreaded development
-- Data structures & algorithms
-- Debugging and profiling tools
+### **What I Deliver**
+```sql
+-- Clean, optimized data pipelines
+-- Scalable ETL processes  
+-- Interactive dashboards & reports
+-- Data-driven recommendations
+-- Performance-optimized queries
+```
 
----
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2342mark&layout=compact&theme=radical&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api?username=2342mark&show_icons=true&theme=radical&hide_border=true&hide_title=true"/> </p>
+🎯 Currently Building
+Data Pipelines: ETL systems processing large datasets
 
-## 📊 GitHub Stats
+Analytical Tools: Python-based solutions for data analysis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2342mark&layout=compact&theme=tokyonight"/>
-</p>
+Database Optimization: High-performance query design
 
----
+Visualization: Turning complex data into clear insights
 
-## 🎯 Current Focus
+📫 Let's Work Together
+<p align="center"> <a href="https://t.me/marchowg"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:mark.matskevich2411@gmail.com"> <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+🎓 Background
+Applied Computer Science @ Faculty of Applied Mathematics and Computer Science, Belarusian State University
+Strong foundation in algorithms, data structures, and mathematical analysis
 
-Right now, I’m focusing on:
-
-- Developing server-side applications in **C++** and **Java**
-- Exploring modern backend frameworks and tools
-- Learning about database optimization and data consistency
-- Improving system design and architecture skills
-- Working on personal projects and backend prototypes
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://t.me/marchowg">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:mark.matskevich2411@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mrywog1sh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">Thanks for visiting my profile!</p>
+<p align="center"><b>Ready to turn your data into competitive advantage? Let's talk! 🚀</b></p> ```
