@@ -13,28 +13,24 @@ I transform complex data into actionable solutions. Passionate about building sc
 
 ## 💼 Tech Stack
 
-### **Core Data Technologies**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### **Engineering & Performance**
-<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ### **What I Deliver**
 ```sql
 -- Clean, optimized data pipelines
--- Scalable ETL processes  
--- Interactive dashboards & reports
+-- Interactive Tableau/Power BI dashboards  
+-- Scalable ETL processes
 -- Data-driven recommendations
 -- Performance-optimized queries
 ```
@@ -46,9 +42,9 @@ Data Pipelines: ETL systems processing large datasets
 
 Analytical Tools: Python-based solutions for data analysis
 
-Database Optimization: High-performance query design
+Dashboard Development: Creating interactive visualizations in Tableau & Power BI
 
-Visualization: Turning complex data into clear insights
+Database Optimization: High-performance query design
 
 📫 Let's Work Together
 <p align="center"> <a href="https://t.me/marchowg"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:mark.matskevich2411@gmail.com"> <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
