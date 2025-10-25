@@ -1,55 +1,62 @@
 <h1 align="center">Hi, I'm Mark Matskevich 👋</h1>
-<h3 align="center">Data Engineer & Analyst | Turning Raw Data into Business Insights</h3>
+<h3 align="center">Data Engineer & Analyst | Building Scalable Data Solutions</h3>
 
-## 🚀 About Me
+## 🚀 Professional Profile
 
-I transform complex data into actionable solutions. Passionate about building scalable data pipelines, optimizing ETL processes, and uncovering hidden patterns that drive business decisions. With strong foundation in computer science and mathematics, I bridge the gap between technical implementation and business value.
+I architect and implement end-to-end data solutions that drive business growth. Specializing in building robust data pipelines, performing deep-dive analysis, and creating actionable insights through advanced visualization. My approach combines technical excellence with strategic business understanding to deliver measurable results.
 
-**What I bring to the table:**
-- 🛠️ **Data Engineering**: Building robust ETL/ELT pipelines that handle millions of records
-- 📊 **Data Analysis**: From exploratory analysis to actionable insights and dashboards
-- 🗄️ **Database Expertise**: SQL optimization, data modeling, and performance tuning
-- ⚡ **Performance**: Writing efficient code that scales with your data needs
+**Core Competencies:**
+- **Data Engineering**: Designing and optimizing ETL/ELT pipelines for enterprise-scale data
+- **Advanced Analytics**: Statistical analysis, predictive modeling, and business intelligence
+- **Data Visualization**: Transforming complex datasets into clear, actionable dashboards
+- **Database Optimization**: High-performance SQL queries and data architecture design
 
-## 💼 Tech Stack
+## 💼 Technical Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### **What I Deliver**
-```sql
--- Clean, optimized data pipelines
--- Interactive Tableau/Power BI dashboards  
--- Scalable ETL processes
--- Data-driven recommendations
--- Performance-optimized queries
-```
+## 📊 Performance Metrics
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2342mark&layout=compact&theme=radical&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api?username=2342mark&show_icons=true&theme=radical&hide_border=true&hide_title=true"/> </p>
-🎯 Currently Building
-Data Pipelines: ETL systems processing large datasets
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2342mark&layout=compact&theme=dark&hide_border=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=2342mark&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide_title=true"/>
+</p>
 
-Analytical Tools: Python-based solutions for data analysis
+## 🎯 Current Focus
 
-Dashboard Development: Creating interactive visualizations in Tableau & Power BI
+- **Enterprise Data Pipelines**: Building scalable ETL systems for complex data ecosystems
+- **Advanced R Analytics**: Developing statistical models and predictive analytics
+- **Business Intelligence**: Creating executive-level dashboards in Tableau and Power BI
+- **Data Architecture**: Designing optimized database structures for performance and scalability
 
-Database Optimization: High-performance query design
+---
 
-📫 Let's Work Together
-<p align="center"> <a href="https://t.me/marchowg"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:mark.matskevich2411@gmail.com"> <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-🎓 Background
-Applied Computer Science @ Faculty of Applied Mathematics and Computer Science, Belarusian State University
-Strong foundation in algorithms, data structures, and mathematical analysis
+**Education**: B.S. Applied Computer Science, Faculty of Applied Mathematics and Computer Science, Belarusian State University
 
-<p align="center"><b>Ready to turn your data into competitive advantage? Let's talk! 🚀</b></p> ```
+## 📫 Executive Contact
+
+<p align="center">
+  <a href="mailto:mark.matskevich2411@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Proposal-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/marchowg">
+    <img src="https://img.shields.io/badge/Telegram_Connect-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><b>Let's architect your data future. Ready to deliver results.</b></p>
