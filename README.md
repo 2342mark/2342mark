@@ -28,10 +28,11 @@ I architect and implement end-to-end data solutions that drive business growth. 
 ## Licenses & Certifications
 
 <p align="center">
-[sql_advanced certificate.pdf](https://github.com/user-attachments/files/28184748/sql_advanced.certificate.pdf)
-[python_basic certificate.pdf](https://github.com/user-attachments/files/28184749/python_basic.certificate.pdf)
-[software_engineer certificate.pdf](https://github.com/user-attachments/files/28184744/software_engineer.certificate.pdf)
-[java_basic certificate.pdf](https://github.com/user-attachments/files/28184740/java_basic.certificate.pdf)
+<img width="1118" height="854" alt="image" src="https://github.com/user-attachments/assets/29b4727c-9e7e-4a2c-84f4-3523ea83d75c" />
+<img width="1043" height="786" alt="image" src="https://github.com/user-attachments/assets/aec73ba7-e5c2-4a52-a874-3be9b2a8a2f9" />
+<img width="968" height="727" alt="image" src="https://github.com/user-attachments/assets/aae2193e-6cc1-4005-8af9-446e120b4a62" />
+<img width="1053" height="791" alt="image" src="https://github.com/user-attachments/assets/70cd966f-2e4e-4d83-8480-dedcccb86c12" />
+
 
 </p>
 
