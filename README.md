@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mark Matskevich 👋</h1>
 <h3 align="center">Data Engineer & Analyst | Building Scalable Data Solutions</h3>
 
-## 🚀 Professional Profile
+## Professional Profile
 
 I architect and implement end-to-end data solutions that drive business growth. Specializing in building robust data pipelines, performing deep-dive analysis, and creating actionable insights through advanced visualization. My approach combines technical excellence with strategic business understanding to deliver measurable results.
 
@@ -11,7 +11,7 @@ I architect and implement end-to-end data solutions that drive business growth. 
 - **Data Visualization**: Transforming complex datasets into clear, actionable dashboards
 - **Database Optimization**: High-performance SQL queries and data architecture design
 
-## 💼 Technical Expertise
+## Technical Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -25,14 +25,17 @@ I architect and implement end-to-end data solutions that drive business growth. 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 📊 Performance Metrics
+## Licenses & Certifications
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2342mark&layout=compact&theme=dark&hide_border=true&bg_color=00000000"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=2342mark&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide_title=true"/>
+[sql_advanced certificate.pdf](https://github.com/user-attachments/files/28184748/sql_advanced.certificate.pdf)
+[python_basic certificate.pdf](https://github.com/user-attachments/files/28184749/python_basic.certificate.pdf)
+[software_engineer certificate.pdf](https://github.com/user-attachments/files/28184744/software_engineer.certificate.pdf)
+[java_basic certificate.pdf](https://github.com/user-attachments/files/28184740/java_basic.certificate.pdf)
+
 </p>
 
-## 🎯 Current Focus
+## Current Focus
 
 - **Enterprise Data Pipelines**: Building scalable ETL systems for complex data ecosystems
 - **Advanced R Analytics**: Developing statistical models and predictive analytics
@@ -43,7 +46,7 @@ I architect and implement end-to-end data solutions that drive business growth. 
 
 **Education**: B.S. Applied Computer Science, Faculty of Applied Mathematics and Computer Science, Belarusian State University
 
-## 📫 Executive Contact
+## Executive Contact
 
 <p align="center">
   <a href="mailto:mark.matskevich2411@gmail.com">
