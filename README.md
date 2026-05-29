@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Mark Matskevich 👋</h1>
 <h3 align="center">Data Engineer & Analyst | Building Scalable Data Solutions</h3>
 
-## Professional Profile
 
 I architect and implement end-to-end data solutions that drive business growth. Specializing in building robust data pipelines, performing deep-dive analysis, and creating actionable insights through advanced visualization. My approach combines technical excellence with strategic business understanding to deliver measurable results.
 
